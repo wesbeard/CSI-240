@@ -1,0 +1,19 @@
+6 5.00 password
+Nuka Cola Classic
+20 1.00
+:
+Nuka Cola Cherry
+20 1.50
+:
+Nuka Cola Orange
+20 1.50
+:
+Nuka Cola Wild
+20 2.00
+:
+Nuka Cola Victory
+20 2.50
+:
+Nuka Cola Quantum
+20 4.00
+:
